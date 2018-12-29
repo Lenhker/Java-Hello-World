@@ -1,8 +1,8 @@
 package com.dada;
 
 public abstract class Car {
-	private String name;//Æû³µÃû
-	private double money;//×â½ð
+	private String name;//汽车名
+	private double money;//租金
 
 	public int getNum() {
 		return num;
